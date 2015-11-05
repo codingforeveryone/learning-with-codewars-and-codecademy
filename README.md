@@ -24,4 +24,4 @@ Once you have some basic knowledge of JavaScript, it’s time to start using you
 7. Once you have completed a kata and can see the solutions compare yours to the top rated solution. You should spend a little time studying the methods and approaches used in this top solution, as this will help you understand other JavaScript methods and more elegant ways of solving problems that are often more readable.
 
 ##Links
-[A blog post on teaching yourself to code] (https://medium.com/@charlotteis/ok-so-you-want-to-learn-how-to-code-b74bc3ac6107)
+[Ok, so you want to learn how to code.] (https://medium.com/@charlotteis/ok-so-you-want-to-learn-how-to-code-b74bc3ac6107)
