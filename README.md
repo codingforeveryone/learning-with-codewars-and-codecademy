@@ -28,9 +28,9 @@ Once you have some basic knowledge of JavaScript, it’s time to start using you
 ## General tips
 - **GOOGLE EVERYTHING.** Seriously. If you’re stuck with a particular part of your code just search for the problem. The answer will be out there somewhere, it’s just a matter of formulating the correct question and using the correct terminology. Mozilla Developer Network (MDN) and Stack Overflow are great websites for this. w3schools is ok but a bit more basic. While it can be very tempting just to paste in code you’ve found, it always pays off to try to understand how it’s working – it will save you time later!
 - `console.log()` is an essential way to help you complete challenges. You’ll often need to see exactly which cases your code is failing at, or what the value of a variable is at any given stage. Remember you’ll need to hit the run tests or submit button to see the output displayed.
-- Use an online code editor like [repl.it] (https://repl.it/) to check your code is working, tweak your code and see if you can get it to behave the way you want.
+- Use an online code editor like [repl.it](https://repl.it/) to check your code is working, tweak your code and see if you can get it to behave the way you want.
 - For longer and more complex problems, try to break down the problem and write a solution using pseudo code (code in note form – it doesn’t need to run correctly or be syntactically correct).
 - Don’t be afraid of pen and paper, it can be invaluable in helping you understand challenging processes like recursion.
 
 ## Links
-[Ok, so you want to learn how to code.] (https://medium.com/@charlotteis/ok-so-you-want-to-learn-how-to-code-b74bc3ac6107)
+[Ok, so you want to learn how to code.](https://medium.com/@charlotteis/ok-so-you-want-to-learn-how-to-code-b74bc3ac6107)
