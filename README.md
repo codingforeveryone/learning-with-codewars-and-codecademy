@@ -1,16 +1,16 @@
-#Learning JavaScript with Codewars & Codecademy
+# Learning JavaScript with Codewars & Codecademy
 
 [Codecademy](https://www.codecademy.com) and [Codewars](https://www.codewars.com) are two fantastic resources for learning JavaScript. Whether you are looking to apply to Founders & Coders (in which case they are necessary) or just want to learn, completing Codecademy’s JavaScript course and then solving some katas on Codewars is a great learning route. Good as these resources are, if you are new to programming, they are not always 100% straightforward and can leave you confused. Here are some tips on what to do when you get stuck.
 
 
-##Codecademy
+## Codecademy
 If you are completely new this the best place to start.
 
 1. If you are stuck re-read the info in the side panel (sounds obvious but I often forgot to do this).
 2. Check out the Q&A forum (click ‘Get Help’ in the bottom-right of the screen, select ‘I need help with this exercise’ and follow the link to the forum), people often have similar problems and there are a few bugs which can be picked up here. **Warning:** forum posts may contain spoilers.
 
 
-##Codewars
+## Codewars
 Once you have some basic knowledge of JavaScript, it’s time to start using your knowledge solving problems, or “kata”, on Codewars.
 
 1. The tips mentioned above for Codecademy are also useful here.
@@ -25,12 +25,12 @@ Once you have some basic knowledge of JavaScript, it’s time to start using you
 6. Write your own kata - Codewars gives you lots of credit for this.
 7. Once you have completed a kata and can see the solutions, compare yours to the top rated solution. Try to spend a little time studying the methods and approaches used in the top solutions, as this will help you understand other JavaScript methods and more elegant ways of solving problems.
 
-##General tips
+## General tips
 - **GOOGLE EVERYTHING.** Seriously. If you’re stuck with a particular part of your code just search for the problem. The answer will be out there somewhere, it’s just a matter of formulating the correct question and using the correct terminology. Mozilla Developer Network (MDN) and Stack Overflow are great websites for this. w3schools is ok but a bit more basic. While it can be very tempting just to paste in code you’ve found, it always pays off to try to understand how it’s working – it will save you time later!
 - `console.log()` is an essential way to help you complete challenges. You’ll often need to see exactly which cases your code is failing at, or what the value of a variable is at any given stage. Remember you’ll need to hit the run tests or submit button to see the output displayed.
 - Use an online code editor like [repl.it] (https://repl.it/) to check your code is working, tweak your code and see if you can get it to behave the way you want.
 - For longer and more complex problems, try to break down the problem and write a solution using pseudo code (code in note form – it doesn’t need to run correctly or be syntactically correct).
 - Don’t be afraid of pen and paper, it can be invaluable in helping you understand challenging processes like recursion.
 
-##Links
+## Links
 [Ok, so you want to learn how to code.] (https://medium.com/@charlotteis/ok-so-you-want-to-learn-how-to-code-b74bc3ac6107)
